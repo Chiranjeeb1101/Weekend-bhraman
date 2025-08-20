@@ -5,6 +5,7 @@ import Form from '../Components/Home/Form';
 import Destination from '../Components/Home/Destination';
 import Features from '../Components/Home/Features';
 import Whywe from '../Components/Home/Whywe';
+import Categories from '../Components/Home/Categories';
 
 const Home = () => {
   return (
@@ -15,6 +16,7 @@ const Home = () => {
       <Destination />
       <Features />
       <Whywe />
+      <Categories />
     </div>
   )
 }
