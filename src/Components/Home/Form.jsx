@@ -29,7 +29,7 @@ const Form = () => {
   };
 
   return (
-    <div className="bg-white shadow-lg max-w-7xxl md:mx-16 pt-8">
+    <div className="bg-white shadow-lg max-w-7xxl  md:mx-16 pt-8">
       <div className="bg-gradient-to-r from-blue-500 to-blue-400 text-white rounded-xl p-6 flex justify-between items-center">
         <div>
           <h2 className="text-2xl font-bold text-yellow-400">

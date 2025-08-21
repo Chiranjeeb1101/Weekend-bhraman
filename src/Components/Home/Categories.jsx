@@ -25,7 +25,7 @@ const tours = [
 
 const Categories = () => {
   return (
-    <section className="py-12 px-6 md:px-16">
+    <section className=" py-3 px-6 md:mx-16">
       <p className="text-center text-orange-500 font-medium">Tour Categories</p>
       <h2 className="text-center text-3xl md:text-4xl font-bold text-gray-900 mb-10">
         Holiday Destinations

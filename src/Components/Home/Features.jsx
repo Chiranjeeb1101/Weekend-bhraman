@@ -37,10 +37,10 @@ const Data = [
 
 const Features = () => {
   return (
-    <section className=" bg-white md:mx-16 mb-6">
+    <section className=" bg-white md:mx-16 md:py-3">
       <div className="text-center mb-10">
         <p className="text-orange-500 font-medium">Why Choose Us!</p>
-        <h2 className="text-3xl md:text-4xl font-bold text-gray-900">
+        <h2 className="text-3xl md:text-4xl font-bold text-gray-900 px-6">
           <span>Why Travel with Weekend Bhraman?</span>
         </h2>
       </div>

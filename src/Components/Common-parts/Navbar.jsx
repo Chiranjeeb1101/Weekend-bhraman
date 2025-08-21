@@ -25,7 +25,7 @@ const Navbar = () => {
 
         <div className="w-64"></div>
 
-        <nav className="hidden md:flex items-center gap-8 text-bold">
+        <nav className="hidden md:flex items-center gap-8 text">
           <a href="#" className="text-orange-500 font-semibold border-b-2 border-orange-500">Home</a>
           <a href="#" className="hover:text-orange-500 font-medium hover:border-b-2 border-orange-500">Destinations</a>
           <a href="#" className="hover:text-orange-500 font-medium hover:border-b-2 border-orange-500">About</a>
